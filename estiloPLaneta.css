@@ -1,0 +1,4 @@
+body{font-family:"tahoma";color:azure;background-image:url(backgroundplanetas.jpg);}
+#kgNoDecimales{font-size:20;}
+#Venus,#Mercurio,#Marte,#Jupiter,#Saturno,#Urano,#Neptuno ,#Pluton,#Luna{float:left;}
+#piedepagina{background-color:lightblue;color:black;}
